@@ -61,9 +61,9 @@
       <!-- $10+/month -->
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
+          <a href="https://github.com/thatiphele"><img src="https://github.com/thatiphele" alt="@thatiphele" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/username"><b>Thatayaone Phele</b></a>
+          <a align="center" href="https://github.com/thatiphele"><b>Thatayaone Phele</b></a>
         </b>
       </td> -->
       <!-- $5+/month -->
