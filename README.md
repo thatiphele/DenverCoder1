@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thatiphele">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Thatayaone Phele" /></a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
         <div align="center">
           <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
+          <a align="center" href="https://github.com/username"><b>Thatayaone Phele</b></a>
         </b>
       </td> -->
       <!-- $5+/month -->
